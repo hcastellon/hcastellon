@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/ithcastellon)
 
-:school: Currently studying Master's Big Data Analysis and Visualization at UNIR University, Online</br>
+:school: Master in Big Data Science at UNIR-Mexico University, Online</br>
 :fountain_pen: I have a passion for creative writing</br>
 :computer: I love working with software</br>
 :mailbox: How to reach out to me: <a href="mailto:kevinfeng.cs88@gmail.com">hcastellonc@gmail.com</a>
